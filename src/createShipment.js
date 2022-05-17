@@ -23,6 +23,7 @@ const CreateShipment = ({change}) => {
     }
     return (
         <div>
+            <button onClick={() =>change("All")}>Back</button>
             <div style={{ marginBottom: 30 }}>
                 <p>Enter Shipping Address:</p>
                 <input onChange={(e) => setAddress(e.target.value)} />
