@@ -22,4 +22,4 @@ The app is deployed on [https://replit.com/@rawdpiper/inventory-app-client](http
 
 ## Client App
 
-Client app is hosted on [https://github.com/rawdpiper/inventory-app-client](https://github.com/rawdpiper/inventory-app-client)
+Client app is hosted on [https://github.com/rawdpiper/Shopify-Developer-Intern-Task/](https://github.com/rawdpiper/Shopify-Developer-Intern-Task/)
